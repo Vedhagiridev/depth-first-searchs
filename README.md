@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name:SHARMILI V </h3>
-<h3>Register Number:212225040405</h3>
+<h3>Name: SHARMILI V</h3>
+<h3>Register Number: 212225040405 </h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -54,7 +54,6 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
 
-<hr>
 ## Program :
 ```
 from collections import deque
@@ -134,3 +133,4 @@ F H <BR>
 <hr>
 <h3>Result:</h3>
 <hr>
+<p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
